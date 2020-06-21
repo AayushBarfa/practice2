@@ -1,11 +1,20 @@
+[
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"Name" : "Aayush",
+"Password" : "123",
+"Contect" : "1234567890",
+"Country" : "India" 
+},
+{
+"Name" : "Sam",
+"Password" : "222",
+"Contect" : "2222222222",
+"Country" : "USA" 
+},
+{
+"Name" : "Jetle",
+"Password" : "111",
+"Contect" : "1111111111",
+"Country" : "China" 
 }
+]
